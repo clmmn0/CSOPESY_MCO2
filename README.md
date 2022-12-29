@@ -20,7 +20,7 @@ A Python-based program that uses Counting Semaphore to handle a synchronization 
 4. Type and run `python CSOPESY_MCO2_Code.py` in the command prompt.
 5. Wait for the program to start.
 6. Fill up all needed input.
-7. Wait until the program has finished its execution.
+7. Wait until the program has finished executing.
 
 You may also run the program using applications like PyCharm or Visual Studio Code.
 
