@@ -13,5 +13,15 @@ A Python-based program that uses Counting Semaphore to handle a synchronization 
 - `b`: number of blue threads
 - `g`: number of green threads
 
-To run the program, use the command prompt or use programs like Dev-C++ or Visual Studio Code.
+# How to Run the Program
+1. Clone this repository.
+2. Navigate to the cloned version of this repository.
+3. Open the command prompt.
+4. Type and run `python CSOPESY_MCO2_Code.py` in the command prompt.
+5. Wait for the program to execute.
+6. Fill up all needed input.
+7. Wait until the program has finished executing.
+
+You may also run the program using applications like PyCharm or Visual Studio Code.
+
 
