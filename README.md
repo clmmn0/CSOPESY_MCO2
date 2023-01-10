@@ -1,4 +1,4 @@
-# CSOPESY_MCO2
+# CSOPESY_MCO2_Synchronization
 
 A Python-based program that uses Counting Semaphore to handle a synchronization problem that allows multiple instances of the same resource to access the critical section. In this project, the supposed task is to create a solution that will manage the number of people inside a fitting room of a department store.
 
